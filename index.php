@@ -1,3 +1,7 @@
+<?php
+
+
+?>
 <html>
 <head> <title>Starter</title> </head>
 <body>
@@ -5,6 +9,8 @@
  
  Welcome Programmer!
  Welcome coder
+ 
+ I have added PHP index file
 
 </body>
 
