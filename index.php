@@ -4,6 +4,7 @@
 ?>
 <html>
 <head> 
+<style>
 body {
   align-items: center;
   background-color: #000;
@@ -129,7 +130,7 @@ body {
   background-color: #06b;
 }
 
-
+</style>
 
 
 <title>Starter</title>
